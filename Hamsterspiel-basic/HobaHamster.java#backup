@@ -1,0 +1,33 @@
+import greenfoot.*;
+
+
+public class HobaHamster extends Hamster
+{   
+    public void vor() 
+    {
+        Greenfoot.delay();
+        super.vor();
+    }    
+    
+    public void linksUm()
+    {
+        Greenfoot.delay();
+        super.linksUm();
+    }
+    
+    public void gib()
+    {
+        Greenfoot.delay();
+        super.gib();
+    }
+    
+    public void nimm()
+    {
+        Greenfoot.delay();
+        super.nimm();
+    }
+    
+    public void act() 
+    {}
+        
+}

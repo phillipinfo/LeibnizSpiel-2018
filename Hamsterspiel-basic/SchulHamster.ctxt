@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ vor()
+comment0.text=\r\n\ Konstruktor\ zum\ Erzeugen\ eines\ neuen\ SchulhamstersHamsters\ mit\ Blickrichtung\ OST\ und\r\n\ n\ K\u00F6rnern\ im\ Maul\r\n
+comment1.params=
+comment1.target=void\ linksUm()
+comment2.params=
+comment2.target=void\ gib()
+comment3.params=
+comment3.target=void\ nimm()
+comment4.params=n
+comment4.target=void\ setKoernerImMaul(int)
+comment4.text=\r\n\ Legt\ dem\ Hamster\ n\ Koerner\ ins\ Maul;\ n\ muss\ positiv\ sein\!\r\n
+comment5.params=
+comment5.target=void\ zufaelligDrehen()
+comment6.params=
+comment6.target=int\ anzahlKoernerAufFeld()
+numComments=7

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=hamster
+comment0.target=HamsterException(Hamster)
+comment0.text=\r\n\ Konstruktor,\ der\ die\ Exception\ mit\ dem\ Hamster\ initialisiert,\ der\ die\r\n\ Exception\ verschuldet\ hat.\r\n\ \r\n\ @param\ hamster\r\n\ \ \ \ \ \ \ \ \ \ \ \ der\ Hamster,\ der\ die\ Exception\ verschuldet\ hat\r\n
+comment1.params=
+comment1.target=Hamster\ getHamster()
+comment1.text=\r\n\ liefert\ den\ Hamster,\ der\ die\ Exception\ verschuldet\ hat\r\n\ \r\n\ @return\ der\ Hamster,\ der\ die\ Exception\ verschuldet\ hat\r\n
+numComments=2
